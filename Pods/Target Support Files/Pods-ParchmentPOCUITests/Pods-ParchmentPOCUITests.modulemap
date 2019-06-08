@@ -1,0 +1,6 @@
+framework module Pods_ParchmentPOCUITests {
+  umbrella header "Pods-ParchmentPOCUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

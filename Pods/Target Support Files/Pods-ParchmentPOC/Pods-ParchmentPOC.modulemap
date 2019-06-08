@@ -1,0 +1,6 @@
+framework module Pods_ParchmentPOC {
+  umbrella header "Pods-ParchmentPOC-umbrella.h"
+
+  export *
+  module * { export * }
+}
